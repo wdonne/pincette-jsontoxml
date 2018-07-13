@@ -1,4 +1,4 @@
-#Convert JSON to XML
+# Convert JSON to XML
 
 This is a command-line tool that reads JSON from stdin and writes XML to stdout. The following conversion rules are used:
 
